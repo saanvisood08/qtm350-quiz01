@@ -1,0 +1,2 @@
+git clone https://github.com/saanvisood08/qtm350-quiz01.git
+cd qtm350-quiz01
